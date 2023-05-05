@@ -1,4 +1,13 @@
-## Hola soy Jonatan, Programador!
+## Hi, I'm Jonatan!
+
+  ```javascript
+const Jonatan = {
+    code: ['Javascript','HTML', 'Java'],
+    tools: ['Springboot','Node', 'React', 'React Native', 'CSS', 'Material UI', 'Bootstrap', 
+    'Android Studio', 'Microsoft SQL Server Management Studio', 'MySQL Workbench'],
+    databases: ['SQL', 'MySQL']
+}
+```
 <div align="center">
   <a href="https://github.com/JonatanAlexisYanezRivas">
  
@@ -8,6 +17,8 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonatanAlexisYanezRivas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   
 </div>
+  
+
 
   
 <div style="display: inline_block"><br>
