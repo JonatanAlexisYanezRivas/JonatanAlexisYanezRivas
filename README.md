@@ -10,10 +10,10 @@ public class Hello {
 
   ```javascript
 const Jonatan = {
-    code: ['Javascript','HTML', 'Java'],
+    code: ['Java','Python','JavaScript'],
     tools: ['Springboot','Node', 'React', 'React Native', 'CSS', 'Material UI', 'Bootstrap', 
     'Android Studio', 'Microsoft SQL Server Management Studio', 'MySQL Workbench'],
-    databases: ['SQL', 'MySQL']
+    databases: ['SQL Server', 'MySQL']
 }
 ```
 
