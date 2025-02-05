@@ -11,9 +11,9 @@ public class Hello {
   ```javascript
 const Jonatan = {
     code: ['Java','Python','JavaScript'],
-    tools: ['Springboot','Node', 'React', 'React Native', 'CSS', 'Material UI', 'Bootstrap', 
+    tools: ['Spring', 'SpringBoot', 'Node', 'React', 'React Native', 'CSS', 'Material UI', 'Bootstrap', 
     'Android Studio', 'Microsoft SQL Server Management Studio', 'MySQL Workbench', 'MVC', 'VirtualBox'],
-    databases: ['SQL Server', 'MySQL', 'SQLite', 'Firebase']
+    databases: ['Oracle SQL', 'SQL Server', 'MySQL', 'SQLite', 'Firebase']
 }
 ```
 
